@@ -1,4 +1,4 @@
-The study plan was reviewed.
+The study plan was reviewed.(2019/10/10)
 
 1. Docker
   - Dockerfile
